@@ -816,6 +816,19 @@ footer {
   margin-bottom: 0.8rem;
 }
 
+.staff-card-simple .staff-name,
+.staff-card .staff-name {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+}
+
+.staff-card-simple .staff-title,
+.staff-card .staff-title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
 .staff-card {
   text-align: center;
 }
